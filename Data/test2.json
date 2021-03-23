@@ -1,6 +1,6 @@
 [
     {
-        "identifier": "50a48fa3-2c0f-4397-ac50-64da464f9954",
+        "id": "50a48fa3-2c0f-4397-ac50-64da464f9954",
         "isActive": false,
         "name": "Gary2 Rodriguez",
         "age": 21,
@@ -66,7 +66,7 @@
         ]
     },
     {
-        "identifier": "eccdf4b8-c9f6-4eeb-8832-28027eb70155",
+        "id": "eccdf4b8-c9f6-4eeb-8832-28027eb70155",
         "isActive": true,
         "name": "Gale Dyer",
         "age": 28,
@@ -96,7 +96,7 @@
         ]
     },
     {
-        "identifier": "f58db795-dc50-4628-9542-4a0dd07e74c3",
+        "id": "f58db795-dc50-4628-9542-4a0dd07e74c3",
         "isActive": false,
         "name": "Tabitha Humphrey",
         "age": 26,
