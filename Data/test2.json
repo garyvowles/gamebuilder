@@ -2,7 +2,7 @@
     {
         "id": "50a48fa3-2c0f-4397-ac50-64da464f9954",
         "isActive": false,
-        "name": "Gary Vowles123",
+        "name": "Gary",
         "age": 21,
         "company": "Imkan",
         "email": "alfordrodriguez@imkan.com",
@@ -21,11 +21,11 @@
         "friends": [
             {
                 "id": "91b5be3d-9a19-4ac2-b2ce-89cc41884ed0",
-                "name": "Hawkins Patel"
+                "name": "Bonnie"
             },
             {
                 "id": "0c395a95-57e2-4d53-b4f6-9b9e46a32cf6",
-                "name": "Jewel Sexton"
+                "name": "Max"
             },
             {
                 "id": "be5918a3-8dc2-4f77-947c-7d02f69a58fe",
@@ -68,7 +68,7 @@
     {
         "id": "eccdf4b8-c9f6-4eeb-8832-28027eb70155",
         "isActive": true,
-        "name": "Paul Simon",
+        "name": "john",
         "age": 28,
         "company": "Cemention",
         "email": "galedyer@cemention.com",
@@ -87,11 +87,11 @@
         "friends": [
             {
                 "id": "1c18ccf0-2647-497b-b7b4-119f982e6292",
-                "name": "Daisy Bond"
+                "name": "Natalie"
             },
             {
                 "id": "a1ef63f3-0eab-49a8-a13a-e538f6d1c4f9",
-                "name": "Tanya Roberson"
+                "name": "Tia"
             }
         ]
     },
