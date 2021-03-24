@@ -29,7 +29,7 @@
             },
             {
                 "id": "be5918a3-8dc2-4f77-947c-7d02f69a58fe",
-                "name": "Berger Robertson"
+                "name": "Berger Robertson - friend"
             },
             {
                 "id": "f2f86852-8f2d-46d3-9de5-5bed1af9e4d6",
@@ -260,7 +260,7 @@
     {
         "id": "be5918a3-8dc2-4f77-947c-7d02f69a58fe",
         "isActive": false,
-        "name": "Berger Robertson",
+        "name": "Berger Robertson - user",
         "age": 37,
         "company": "Netagy",
         "email": "bergerrobertson@netagy.com",
