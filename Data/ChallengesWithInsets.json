@@ -1,0 +1,59 @@
+[
+{
+    "challengeID" : "1001",
+    "challengeName" : "Base Camp",
+    "challengeObjective" : "Base Camp - Objective",
+    "challengeOverview" : "Base Camp - Overview",
+    "challengePhysicalLocation" : "Base Camp - Location",
+    "challengeAddress" : "Base Camp - Address",
+    "challengeType" : "Core",
+    "challengeIsFavourite" : true,
+    "challengeIsFeatured" : true,
+    "challengeAgeRange" : "Base Camp - Age Range",
+    "challengeAvatar" : "Base Camp - Icon or Symbol",
+    "challengeEstTimeToComplete" : 1,
+    "challengeCategory" : "Base Camp - Category",
+    "challengeComplexity" : "Base Camp Complexity",
+    "challengeMapText" : "Base Camp - Map text",
+    "challengeNotes" : "Base Camp - Notes",
+    "challengeReferences" : "Base Camp - References",
+    "challengeCreatedBy" : "Games By You",
+    "challengeCredit" : "Base Camp - Credit",
+    "challengeAbout" : "Base Camp - About",
+    "challengeImage1" : "Base Camp - Image 1",
+    "challengeImage2" : "Base Camp - Image 2",
+    "challengeImage3" : "Base Camp - Image 3",
+    "challengeImage4" : "Base Camp - Image 4",
+    "challengeBuildComplexity" : "Base Camp - Complexity - noted in stars",
+    "challengeBuildCost" : 1,
+    "challengeBuildOverview" : "Base Camp - Overview",
+    "challengeBuildTimeToBuild" : 1,
+    "challengeMaterialsOverview" : "Base Camp - Materials Overview",
+    "materials" : [
+        {
+            "challengeID" : "1001",
+            "name": "Berger Robertson"
+        },
+        {
+            "challengeID" : "f2f86852-8f2d-46d3-9de5-5bed1af9e4d6",
+            "name" : "Hess Ford"
+        },
+        {
+            "challengeID": "6ba32d1b-38d7-4b0f-ba33-1275345eacc0",
+            "name" : "Bonita White"
+        },
+        {
+            "challengeID" : "4b9bf1e5-abec-4ee3-8135-3a838df90cef",
+            "name" : "Sheryl Robinson"
+        },
+        {
+            "challengeID" : "5890bacd-f49c-4ea2-b8fa-02db0e083238",
+            "name" : "Karin Collins"
+        },
+        {
+            "challengeID" : "29e0f9ee-71f2-4043-ad36-9d2d6789b2c8",
+            "name" : "Pace English"
+        }
+    ]
+ }
+]
