@@ -29,7 +29,7 @@
     "challengeBuildOverview" : "Base Camp - Overview",
     "challengeBuildTimeToBuild" : 1,
     "challengeMaterialsOverview" : "Base Camp - Materials Overview",
-    "materials" : [
+    "friends" : [
         {
             "challengeID" : "1001",
             "name": "Berger Robertson"
